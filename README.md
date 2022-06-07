@@ -14,6 +14,6 @@ truffle(develop)> truffle migrate
 ``` 
 
 ## Then
-```
-After truffle develop, you can see 10 test acconts and private keys. Also, we can see the truffle develop's address (ex) ip address:8545) Then we could connect the Metamask by connecting this address and add the account in Metamask wallet.
-```
+After truffle develop, you can see 10 test acconts and private keys. Also, we can see the truffle develop's address (ex) ip address:8545) 
+
+Then we could connect the Metamask by connecting this address and add the account in Metamask wallet.
